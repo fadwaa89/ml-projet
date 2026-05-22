@@ -95,9 +95,9 @@ The reference model is a **Random Forest Classifier** trained without any imbala
 
 The model reaches approximately:
 
-- **85% accuracy**
-- **~0.2% recall on buyers**
-- **ROC-AUC ≈ 0.58**
+- **87% accuracy**
+- **~0.547 recall on buyers**
+- **ROC-AUC ≈ 0.916**
 
 This demonstrates that:
 - Accuracy alone is misleading

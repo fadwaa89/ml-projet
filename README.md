@@ -122,4 +122,5 @@ This demonstrates that:
 project/
 │
 ├── README.md
-├── 
+├── requirements.txt
+└── when_ml_fails.ipynb
